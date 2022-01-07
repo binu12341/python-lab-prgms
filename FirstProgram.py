@@ -1,4 +1,3 @@
-'''
 print("Hello Friends")
 
 a = 3
@@ -16,9 +15,7 @@ def reverse(s):
 s="binu"
 print(s)
 print(reverse(s))
-'''
 
-'''
 #Program to add two numbers entered by the user?
 
 num1=input('Enter first number:')
@@ -62,8 +59,7 @@ num=10
 for i in range(1,11):
     print(num,'*',i,'=',num*i)
 
-'''
-'''
+
 #To find the largest number among the 3 numbers?
 
 num1=float(input('Enter first number:'))
@@ -189,5 +185,4 @@ for num in range(lower,upper+1):
                 break
         else:
             print(num)
-'''
 
